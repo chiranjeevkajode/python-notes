@@ -1,2 +1,0 @@
-# python-notes
-Notes
